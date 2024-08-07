@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "yescheffood07"
+  },
+  "targets": {
+    "yescheffood07": {
+      "hosting": {
+        "admin": [
+          "yescheffood07-admin"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
